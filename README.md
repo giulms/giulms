@@ -4,14 +4,19 @@
 
 Me chamo Giulliano Lucas Muniz, tenho 19 anos e sou natural de Recife. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Cesar School. Sou apaixonado por tecnologia, inovação e pessoas.
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="[https://instagram.com/dmendes.g](https://www.instagram.com/giulliano.mnz/)" target="_blank">
+        <img 
+            src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+            target="_blank">
+    </a>
+    <a href="https://github.com/giulms?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/giulms?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/giulms?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
