@@ -4,7 +4,7 @@
 
 Me chamo Giulliano Lucas Muniz, tenho 19 anos e sou natural de Recife. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Cesar School. Sou apaixonado por tecnologia, inovação e pessoas.
 <p align="left">
-    <a href="[https://instagram.com/dmendes.g](https://www.instagram.com/giulliano.mnz/)" target="_blank">
+    <a href="[https://instagram.com/giulliano.mnz](https://www.instagram.com/giulliano.mnz/)" target="_blank">
         <img 
             src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
             target="_blank">
